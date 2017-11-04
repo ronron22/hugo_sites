@@ -1,0 +1,192 @@
+/* feuille de style "générique" du site, avec logo,fond,menu,pied,encart et contact 
+passage en % au lieu de px,em des valeurs de positionnement cadre resultat: seul en 800 par 500 l' ascenceur horizontal apparait
+*/
+body {
+/* background-image:url(../images/fc.gif);*/
+background-color:#1C1D1B;
+font-family:"Trebuchet MS" ,verdana;
+color:white;
+font-size:0.7em;
+position:relative;
+height:100%; 
+}
+.main {
+position:absolute;
+/*margin-top:-300px%;*/
+top:0;
+right:6%; 
+left:6%; 
+z-index:1;
+border-style:none;
+border-width:1px;
+background-image:url(../images/fd41.gif); 
+background-repeat:repeat-x;
+width:88%;
+height:600px;
+}
+.titref {
+position:absolute;
+top:40px;
+background-image:url(../images/architux.png);
+background-repeat:no-repeat;
+margin-left:43%;
+margin-right:auto;
+border-style:none;
+border-width:1px;
+width:400px;
+height:100px;
+z-index:3;
+}
+.spirale {
+position:absolute;
+top:-10px;
+background-image:url(../images/logodeb3t.png); 
+background-repeat:no-repeat;
+border-style:none;
+border-width:1px;
+/*width:800px;*/
+height:630px;
+width:100%;
+float:left;
+z-index:2;
+}
+a:link
+{
+color:white;
+font-family:"Trebuchet MS",verdana,arial;
+font-size:1.2em;
+text-decoration:underline;
+font-weight:bold;
+}
+a:visited
+{
+color:white;
+font-family:"Trebuchet MS",verdana,arial;
+font-size:1.2em;
+font-weight:bold;
+}
+a:active
+{
+color:#3D291E;
+background-color:black;
+font-size:1.2em;
+font-family:"Trebuchet MS",verdana,arial;
+text-decoration:none;
+}
+a:hover
+{
+color:white;
+background-color:#8A4f0b;
+font-size:1.2em;
+font-family:"Trebuchet MS",verdana,arial;
+text-decoration:none;
+} 
+.deb {
+position:absolute;
+left:50%;
+bottom:-22px;
+background-image:url(../images/debian.png);
+background-repeat:no-repeat;
+margin-left:-40px;
+margin-right:auto;
+width:80px;
+height:15px;
+z-index:7;
+}
+.tmenud {
+position:absolute;
+top:0px; 
+right:8%;
+left:8%;
+padding:5px;
+font-size:0.9em;
+z-index:4;
+color:black;
+font-family:arial;
+background-color:#FFFF80;
+line-height:0.7em;
+text-align:center;
+}
+.contact {
+position:absolute;
+top:100px;
+left:87px; 
+width:230px;
+text-align:center;
+border-style:solid;
+border-width:1px;
+border-color:black;
+z-index:4;
+padding-top:25px;
+padding-bottom:0px;
+font-weight:bold; 
+font-size:1em;
+}
+
+/* menu horizontal */
+
+ul.menul {
+position:absolute;
+top:120px; 
+left:41%;
+z-index:4;
+padding:4px;
+margin:2px; 
+font-weight:bold;
+font-size:0.9em;
+font-family:"Trebuchet MS",verdana,arial;
+list-style-type:none; 
+}
+.menul li {
+float:left;
+line-height:1.6em;
+} 
+.menul a {
+color:white;
+text-decoration:none;
+border-style:solid;
+border-width:1px;
+padding-left:3px;
+padding-right:3px; 
+background-color:#8A4f0b;
+border-color:black;
+float: left;
+display: block;
+/* width:85px; */
+height: 16px;
+text-align:center;
+}
+.menul a:visited {
+color:white;
+}
+.menul a:hover   {
+color:white;
+border-style:solid;
+border-color:#8A4f0b;
+background-color:transparent;
+}
+.menul a:active {
+color:white;
+border-style:solid;
+border-width:1px;
+border-color:#8A4f0b;
+background-color:transparent;
+} 
+.menul a span {
+display: none;
+}
+.menul a:hover span {  
+display: block;
+z-index:4;
+position: absolute;
+top: 30px;
+left:20px;
+width: 300px;      
+text-align: left;
+color: white;
+}
+
+
+	
+	
+

@@ -1,0 +1,5 @@
+baseURL = "https://www.architux.com/"
+languageCode = "fr-fr"
+title = "Architux Site"
+theme = "archituxold"
+#theme = "minimal"
