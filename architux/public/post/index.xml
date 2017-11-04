@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Architux Site</title>
+    <link>https://www.architux.com/post/</link>
+    <description>Recent content in Posts on Architux Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 25 Jul 2016 21:04:23 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.architux.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>first</title>
+      <link>https://www.architux.com/post/first/</link>
+      <pubDate>Mon, 25 Jul 2016 21:04:23 -0500</pubDate>
+      
+      <guid>https://www.architux.com/post/first/</guid>
+      <description> tagadada </description>
+    </item>
+    
+  </channel>
+</rss>
