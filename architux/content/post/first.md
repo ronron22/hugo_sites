@@ -9,5 +9,5 @@ type = "post"
 ### tagadada
 
 
-![This is an image](/images/fd41.gif)
+<!-- ![This is an image](/images/fd41.gif) -->
 
