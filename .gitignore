@@ -1,1 +1,2 @@
-architux/themes
+architux/themes/*
+!architux/themes/archituxold
