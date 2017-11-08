@@ -2,4 +2,5 @@ architux/themes/*
 !architux/themes/archituxold
 mugairyu/themes/*
 !mugairyu/themes/dimension
+mugairyu/content/elements.md
 dimension-template/
