@@ -1,0 +1,44 @@
+baseurl = "http://www.mugairyu.fr"
+title = "Mugai Ryu - école traditionnelle de sabre Japonais"
+theme = "dimension"
+languageCode = "fr-fr"
+defaultContentLanguage = "fr"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Bienvenu sur le site Les Instants Japonais dont la vocation est de vous présenter deux dôjôs <br />Les visiteurs désireux de s’informer et d’assister sans engagement à une leçon sont les bienvenus.<!--]--><br />'
+  logoimage = "/images/logo.png"
+  copyright = "Mugai-ryu France"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[languages]
+[languages.fr]
+languageName = "French"
+weight = 1
+
+[languages.de]
+languageName = "Deutsch"
+weight = 2
+title = "Dimension"
+description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
+                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
