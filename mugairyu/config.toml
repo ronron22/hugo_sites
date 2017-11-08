@@ -1,5 +1,5 @@
 baseurl = "http://www.mugairyu.fr"
-title = "Mugai Ryu - école traditionnelle de sabre Japonais"
+title = "Mugai Ryu - école traditionnelle de sabre"
 theme = "dimension"
 languageCode = "fr-fr"
 defaultContentLanguage = "fr"
@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->Bienvenu sur le site Les Instants Japonais dont la vocation est de vous présenter deux dôjôs <br />Les visiteurs désireux de s’informer et d’assister sans engagement à une leçon sont les bienvenus.<!--]--><br />'
+  description = '<!--[-->無外真伝無外流居合兵道<br /> Mugai-ryu Iai hyôdô<!--]--><br />'
   logoimage = "/images/logo.png"
   copyright = "Mugai-ryu France"
 
