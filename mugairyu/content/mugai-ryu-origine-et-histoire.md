@@ -8,7 +8,7 @@ draft: false
 
 [comment]:{{< figure class="image main" src="/images/Tsuji-Gettan.png" >}}
 
-Tsuji-Gettan, fondateur du Mugai Ryu 
+Tsuji-Gettan, fondateur du Mugai ryu 
 
 ![Tsuji-Gettan](/images/Tsuji-Gettan.png )
 [comment]:=250x

@@ -7,7 +7,9 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->無外真伝無外流居合兵道<br /> Mugai-ryu Iai hyôdô<!--]--><br />'
+  description = '<!--[-->無外真伝無外流居合兵道<!--]--><br />
+                <!--[-->Mugai-ryu Iai hyôdô<!--]--><br />
+                <!--[-->école traditionnelle de sabre Japonais<!--]-->'
   logoimage = "/images/logo.png"
   copyright = "Mugai-ryu France"
 
@@ -35,3 +37,4 @@ disableKinds=["RSS"]
 [languages.fr]
 languageName = "French"
 weight = 1
+title = "Mugai Ryu"
