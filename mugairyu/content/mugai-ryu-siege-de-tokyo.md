@@ -29,5 +29,3 @@ ___
 >Shinjuku-ku Tokyo Japon
 
 >Telephone: +81 090 8115 8193
-
-{{< gmaps pb="place/2+Chome-4-6+Kamiochiai,+Shinjuku-ku,+T%C5%8Dky%C5%8D-to+161-0034,+Japon/@35.715029,139.690222,15z/data=!4m5!3m4!1s0x6018f2b4a732102b:0xb620e5dfc3dbdba4!8m2!3d35.7150289!4d139.6902221?hl=fr-FR" >}}

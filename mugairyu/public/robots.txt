@@ -1,4 +1,1 @@
 User-agent: *
-Allow: /
-
-Sitemap: http://www.mugairyu.fr/sitemap.xml

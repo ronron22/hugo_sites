@@ -1,14 +1,15 @@
 ---
 title: "News"
 date: 2017-11-08T20:59:05+01:00
-draft: fasle
+draft: false
 ---
 
 ### Stage de Sudo senseï
-
 Stage de Sudo senseï
-A paris, du 02/04 au 11/04 2018 
-Les détails seront annoncés plus tard.
+
+A Paris, du 02/04 au 11/04/2018
+
+Détails à venirs.
 
 ____
 

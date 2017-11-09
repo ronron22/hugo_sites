@@ -1,8 +1,7 @@
 architux/themes/*
 !architux/themes/archituxold
-mugairyu/themes/*
-!mugairyu/themes/dimension
-mugairyu/content/elements.md
-mugairyu/content/elements.md
+#mugairyu/themes/*
+#!mugairyu/themes/dimension
+#mugairyu/content/elements.md
 dimension-template/
 mugairyu/old/
