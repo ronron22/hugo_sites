@@ -5,11 +5,11 @@ draft: false
 ---
 
 ### 座技 Zagi (katas à genous)
-| 五用 GOYÔ    | 五箇 GOKA             |
-| ------------ | --------------------- |
-|1. 真 : Shin  |1. 水月 : Suigetsu     |
-|2. 連 : Ren   |2. 陰中陽 : Inchûyô    |
-|3. 左 : Sa    |3. 陽中陰 : Yôchûin    |
+| 五用 GOYÔ    | 五箇 GOKA              |
+| ------------ | ---------------------- |
+|1. 真 : Shin  |1. 水月 : Suigetsu      |
+|2. 連 : Ren   |2. 陰中陽 : Inchûyô     |
+|3. 左 : Sa    |3. 陽中陰 : Yôchûin     |
 |4. 右 : Yû    |4. 響返し : Hibikigaeshi|
 |5. 捨 : Sha   |5. 破図味 : Hazumi      |
 
@@ -17,7 +17,7 @@ ___
 
 ### 立ち技 Tachiwaza (katas debouts) 
 
-|五応   GOÔ              |走り懸り　HASHIRIGAKARI   |
+|五応 GOÔ                |走り懸り HASHIRIGAKARI    |
 |------------------------|--------------------------|
 |1. 胸尽し : Munazukushi |1. 前腰 : Maegoshi        |
 |2. 円要 : Enyô          |2. 夢想返 : Musôgaeshi    |
