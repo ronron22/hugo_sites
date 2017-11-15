@@ -6,10 +6,15 @@
 # installing golang
 apt-get install golang
 # installing hugo 
-echo "export GOPATH=$HOME/go" >> .bashrc
-echo "export PATH=$PATH:$GOROOT/bin:$GOPATH/bin" >> .bashrc
-source .bashrc
+echo "GOPATH=$HOME/go" >> ~/.bashrc
+echo "PATH=$PATH:$GOROOT/bin:$GOPATH/bin" >> ~/.bashrc
+source ~/.bashrc
 ```
+#### From github 
+
+go get github.com/kardianos/govendor
+govendor get github.com/gohugoio/hugo
+go install github.com/gohugoio/hugo
 
 ### Installing themes
 
