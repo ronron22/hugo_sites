@@ -2,6 +2,7 @@
 title: "Mugairyu"
 date: 2017-11-15T13:40:43+01:00
 draft: false
+weight: 40
 ---
 
 * [Le poème du Mugai ryu](#poeme)

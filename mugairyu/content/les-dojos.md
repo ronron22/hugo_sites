@@ -19,7 +19,7 @@ Porte du Jour- 4 place de la Rotonde (niveau-3, forum)
 * M. Masayochi Sato 5ème dan / Shidôin (Fondateur Mugai ryu France)
 * M. Moscato Antonio 4ème dan / Shidôin
 #### Site web
-(https://parismugaikai.jimdo.com/)
+https://parismugaikai.jimdo.com/
 
 ___
 
@@ -36,4 +36,4 @@ Téléphones: 01 45 67 51 51 - 06 77 70 77 29 du lundi au samedi
 * M. Dino Perrone 4ème dan / Shidôin
 * Mlle Linh Thiers 3ème dan / Shidôin
 #### Site web
-(https://mugairyufrance.jimdo.com/mugai-ryu/)
+https://mugairyufrance.jimdo.com/mugai-ryu/
