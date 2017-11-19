@@ -787,8 +787,7 @@ button {
     transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
     background-image: url("/images/bg.jpg");
     background-position: center;
-    background-size: 70%;
-    /* background-size: cover; */
+    background-size: 80%;
     background-repeat: no-repeat;
     z-index: 1; }
   body.is-article-visible #bg:after {

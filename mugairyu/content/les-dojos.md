@@ -1,7 +1,7 @@
 ---
 title: "Les Dojos"
 date: 2017-11-15T14:04:27+01:00
-draft: true
+draft: false
 private: true
 ---
 
