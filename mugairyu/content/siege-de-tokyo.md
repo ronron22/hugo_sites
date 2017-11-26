@@ -5,7 +5,10 @@ draft: false
 private: true
 ---
 
-### Musashinokuni Mugaikai
+# Le siège de Tokyo
+
+## Musashinokuni Mugaikai
+
 武蔵国無外会 - Maître Yasufumi Sudo
 
 * Menkyo kaiden, Sohan, 9ème dan

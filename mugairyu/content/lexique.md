@@ -6,6 +6,8 @@ private: true
 menuname: "Lexique"
 ---
 
+# Lexique
+
 ## Repères
 
 Seichusen
@@ -30,7 +32,36 @@ Metsuke
 
 ___
 
+## Gardes
+
+Seigan 
+
+:   garde moyenne, **Kissaki** au niveau des yeux
+
+Ira seigan 
+
+:   garde *semi-basse*, le sabre est parallèle au sol 
+
+Jodan
+
+:   garde haute
+
+Waki
+
+:   garde *semi-basse* où le sabre pointe vers l'arrière, parallèle au sol 
+
+Gedan
+
+:   garde basse, devant soi, Kissaki à la hauteur du genou
+
+Asso 
+
+:   garde moyenne, sur le côté, Tsuba prés du visage
+
+___
+
 ## Types de frappe
+
 Yoko ichi monji
 
 :   frappe à plat, au niveau des seins
@@ -62,6 +93,7 @@ Kata soe giri
 ___
 
 ## Actions
+
 Saya biki
 
 :   envoi du fourreau d'un geste vif vers l'arrière

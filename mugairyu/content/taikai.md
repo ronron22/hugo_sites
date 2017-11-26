@@ -5,28 +5,31 @@ draft: false
 private: true
 ---
 
-[6ème Kokusai Taikai](#6ème Kokusai Taikai)
+# Les Taikai
 
-### 6ème Kokusai Taikai
+Compétitions international
+
+## 6ème Kokusai Taikai
 
 |Samedi 21 Octobre 2017 | Dimanche  22 Octobre 2017 |
 |-----------------------|---------------------------|
 |Stage                  |Compétition                |
 |de 13h à 16h           |arrivée: 9h00, début: 9h30 |
  
-Frais :4,000 yen(programme, déjeuner,souvenir incluses)
+Frais :4,000 yen(programme, déjeuner,souvenir inclus)
 
-#### Programme de la compétition
+### Programme de la compétition
+
 * Enbu par Sensei
 * Match des Katas
 * Match des Iai no katas
 * Match spécial par mineur
 
-#### tarif hotel
+### tarif hotel
  17,500 yen
  
+## Japanese version
 
-#### Japanese version
 大会詳細   
 第６回中川無外真伝無外流居合兵道・国際大会    
 平成29年10月21日(土)22日(日)南熱海マリンホール　スポーツホール   
