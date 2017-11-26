@@ -4,6 +4,20 @@
 
 Améliorer le markdown :
 * remplacer les paragraphes par des sauts de lignes
+* ajouter des infos au front matter exemple :
+```bash
+---
+title: "Les Dojos"
+description: "Les dojos sur Paris"
+date: 2017-11-15T14:04:27+01:00
+draft: false
+private: true
+tags: [ "dojo", "mugaikai", "Paris", "Kazuki", "adresse" ]
+keywords: [ "dojo", "mugaikai", "Paris", "Kazuki", "adresse" ]
+categories:
+  - "dojo"
+---
+```
 
 ## contrib and deploy
 
@@ -38,3 +52,5 @@ and copy public/* files on the target /var/www/<site>/<n° of commit>
 create soft link like ln -s /var/www/<site>/<n° of commit> /var/www/<site>/current
 
 that all ... 
+
+

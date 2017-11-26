@@ -1,8 +1,13 @@
 ---
 title: "Les Dojos"
+description: "Les dojos sur Paris"
 date: 2017-11-15T14:04:27+01:00
 draft: false
 private: true
+tags: [ "dojo", "mugaikai", "Paris", "Kazuki", "adresse" ]
+keywords: [ "dojo", "mugaikai", "Paris", "Kazuki", "adresse" ]
+categories:
+  - "dojo"
 ---
 
 ### Paris mugaikai
@@ -15,7 +20,7 @@ Porte du Jour- 4 place de la Rotonde (niveau-3, forum)
 75001 Paris
 #### Instructeurs officiel 
 * M. Masayochi Sato 5ème dan / Shidôin (Fondateur Mugai ryu France)
-* M. Moscato Antonio 4ème dan / Shidôin
+* M. Antonio Moscato 4ème dan / Shidôin
 #### Site web
 https://parismugaikai.jimdo.com/
 
