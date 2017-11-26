@@ -9,3 +9,4 @@ weight: 10
 * [Origine et Histoire](#origine-et-histoire)
 * [Les Sōkes](#sokes)
 * [Les Katas](#katas)
+* [Lexique](#lexique)
