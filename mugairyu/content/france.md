@@ -5,5 +5,5 @@ draft: false
 weight: 20
 ---
 
-[Les dojos](#les-dojos)
+[Les dojos en France](#les-dojos)
 

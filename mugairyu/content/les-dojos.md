@@ -5,10 +5,8 @@ draft: false
 private: true
 ---
 
-* [Les instants Japonais](#Les instants Japonais)
-* [Kazuki dojo](#Kazuki dojo)
-
 ### Paris mugaikai
+![Dojo Les Halles](/images/salle-dojo-les-halles1.jpg)
 #### Horaires
 * dimanche : de 12h à 14h00
 #### adresse
@@ -24,6 +22,7 @@ https://parismugaikai.jimdo.com/
 ___
 
 ### Kazuki dojo
+![Dojo Shiseikan](/images/salle-dojo-shiseikan1.jpg)
 #### Horaires
 * dimanche : de 18h à 19h30
 * mardi : de 21h à 22h30
