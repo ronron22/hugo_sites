@@ -3,27 +3,67 @@
 
   
   <url>
-    <loc>http://www.mugairyu.fr/#mugai-ryu-siege-de-tokyo</loc>
+    <loc>http://www.mugairyu.fr/#mugairyu</loc>
+    <lastmod>2017-11-15T13:40:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#media</loc>
+    <lastmod>2017-11-26T17:07:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#france</loc>
+    <lastmod>2017-11-15T14:14:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#japon</loc>
+    <lastmod>2017-11-15T13:40:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#les-dojos</loc>
+    <lastmod>2017-11-15T14:04:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#taikai</loc>
+    <lastmod>2017-11-15T13:14:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#mugai-ryu-japon</loc>
+    <lastmod>2017-11-15T09:00:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#mugai-ryu-france</loc>
+    <lastmod>2017-11-15T09:00:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#siege-de-tokyo</loc>
     <lastmod>2017-11-08T16:51:09+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.mugairyu.fr/#mugai-ryu-poeme</loc>
+    <loc>http://www.mugairyu.fr/#poeme</loc>
     <lastmod>2017-11-08T16:36:15+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.mugairyu.fr/#mugai-ryu-kata</loc>
+    <loc>http://www.mugairyu.fr/#katas</loc>
     <lastmod>2017-11-08T15:29:58+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.mugairyu.fr/#mugai-ryu-soke</loc>
+    <loc>http://www.mugairyu.fr/#sokes</loc>
     <lastmod>2017-11-08T14:25:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.mugairyu.fr/#mugai-ryu-origine-et-histoire</loc>
+    <loc>http://www.mugairyu.fr/#origine-et-histoire</loc>
     <lastmod>2017-11-08T14:07:18+01:00</lastmod>
   </url>
   
@@ -34,7 +74,7 @@
   
   <url>
     <loc>http://www.mugairyu.fr/#</loc>
-    <lastmod>2017-11-08T16:51:09+01:00</lastmod>
+    <lastmod>2017-11-15T13:40:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
