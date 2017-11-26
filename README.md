@@ -1,9 +1,9 @@
-# hugo_sites
+# hugo sites
 
-## todo 
-améliorer le markdown :
+## todo
+
+Améliorer le markdown :
 * remplacer les paragraphes par des sauts de lignes
-
 
 ## contrib and deploy
 
@@ -37,6 +37,4 @@ and copy public/* files on the target /var/www/<site>/<n° of commit>
 
 create soft link like ln -s /var/www/<site>/<n° of commit> /var/www/<site>/current
 
-that all 
-
-
+that all ... 
