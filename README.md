@@ -1,7 +1,8 @@
 # hugo sites
 
 ## todo
-améliorer le markdown :
+
+Améliorer le markdown :
 * remplacer les paragraphes par des sauts de lignes
 
 ## contrib and deploy
