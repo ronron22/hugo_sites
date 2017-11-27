@@ -18,6 +18,9 @@ disableKinds=["RSS"]
   icon = "facebook"
   link = "https://www.facebook.com/musasinokuni.mugaikai/"
 
+sectionPagesMenu = "main"
+
+
 [languages]
 [languages.fr]
 languageName = "French"

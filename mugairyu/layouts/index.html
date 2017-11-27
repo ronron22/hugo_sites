@@ -19,15 +19,16 @@
                 <p>{{ .Site.Params.description | safeHTML }}</p>
               </div>
             </div>
-            <nav>
+
+<nav class="sidebar-nav">
               <ul>
-                {{ range .Data.Pages.ByWeight }} 
-                    {{ if not .Params.private }}
-                  <li>{{ if isset .Params "link" }}<a href="{{ index .Params "link" }}"{{else}}<a href="#{{ .File.TranslationBaseName }}"{{end}}>{{ if .GetParam "menuname" }}{{ .GetParam "menuname" }}{{ else }}{{ .Title }}{{ end }}</a></li>
-                {{ end }}
-                {{ end }}
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a>
+    {{ end }}
               </ul>
-            </nav>
+</nav>
+
           </header>
 
         <!-- Main -->
