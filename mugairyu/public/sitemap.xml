@@ -23,6 +23,10 @@
   </url>
   
   <url>
+    <loc>http://www.mugairyu.fr/#contact</loc>
+  </url>
+  
+  <url>
     <loc>http://www.mugairyu.fr/#lexique</loc>
     <lastmod>2017-11-26T20:28:57+01:00</lastmod>
   </url>
@@ -85,7 +89,11 @@
   
   <url>
     <loc>http://www.mugairyu.fr/#</loc>
-    <lastmod>2017-11-15T14:04:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#</loc>
     <priority>0</priority>
   </url>
   
@@ -98,6 +106,32 @@
   <url>
     <loc>http://www.mugairyu.fr/#</loc>
     <lastmod>2017-11-15T14:04:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#</loc>
+    <lastmod>2017-11-15T14:04:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mugairyu.fr/#</loc>
     <priority>0</priority>
   </url>
   

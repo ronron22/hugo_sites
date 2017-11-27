@@ -53,4 +53,16 @@ create soft link like ln -s /var/www/<site>/<n° of commit> /var/www/<site>/curr
 
 that all ... 
 
+### Retaillage des images
 
+```bash
+convert Umegawa_in_Sagami_province.jpg -resize 300x200 Umegawa_in_Sagami_province-mini.jpg
+```
+
+# Jamstack
+
+## API
+
+### Mail
+
+* https://formspree.io/
