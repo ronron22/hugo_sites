@@ -53,6 +53,13 @@ create soft link like ln -s /var/www/<site>/<n° of commit> /var/www/<site>/curr
 
 that all ... 
 
+#### le thème de base
+
+```bash
+cd themes 
+ git clone https://github.com/sethmacleod/dimension.git
+```
+
 ### Retaillage des images
 
 ```bash
