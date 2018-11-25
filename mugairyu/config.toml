@@ -5,6 +5,7 @@ languageCode = "fr-fr"
 defaultContentLanguage = "fr"
 enableRobotsTXT = true
 disableKinds=["RSS"]
+googleAnalytics = "UA-123-45"
 
 [params]
   description = '<!--[-->無外真伝無外流居合兵道<!--]--><br />
@@ -17,6 +18,37 @@ disableKinds=["RSS"]
   medium = "facebook"
   icon = "facebook"
   link = "https://www.facebook.com/musasinokuni.mugaikai/"
+
+[menu]
+  [[menu.mainmenu]]
+  identifier = "mugairyu"
+  name = "Mugairyu"
+  url = "/mugairyu/"
+  weight = 1
+
+  [[menu.mainmenu]]
+  identifier = "media"
+  name = "Média"
+  url = "/media/"
+  weight = 2
+
+  [[menu.mainmenu]]
+  identifier = "france"
+  name = "France"
+  url = "/france/"
+  weight = 3
+
+  [[menu.mainmenu]]
+  identifier = "japon"
+  name = "Japon"
+  url = "/japon/"
+  weight = 4
+
+  [[menu.mainmenu]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
 
 [languages]
 [languages.fr]

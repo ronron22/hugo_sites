@@ -6,9 +6,7 @@ rating: 2
 private: true
 ---
 
-# Les Sōkes du Mugai ryu
-
-## Les trois derniers Sōkes
+### Les trois derniers Sōkes
 
 Kyutaro Koun TAKAHASHI
 
@@ -22,6 +20,6 @@ Misakazu Ryuo KONISHI - actuel sōke
 
 ![Misakazu Ryuo KONISHI](images/sokes/Misakazu-Ryuo-KONISHI-soke.png)
 
-## Généalogie des sōkes du Mugai ryu 
+### Généalogie des sōkes du Mugai ryu 
 
 {{< figure class="image main" src="/images/sokes/genealogie-mugai-ryu.png" >}}

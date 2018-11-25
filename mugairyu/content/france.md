@@ -5,5 +5,6 @@ draft: false
 weight: 20
 ---
 
-[Les dojos en France](#les-dojos)
+* [Les dojos en France](/les-dojos)
+* [Où s'équiper](/equipement)
 

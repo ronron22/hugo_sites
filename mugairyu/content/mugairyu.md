@@ -5,8 +5,9 @@ draft: false
 weight: 10
 ---
 
-* [Le poème du Mugai ryu](#poeme)
-* [Origine et Histoire](#origine-et-histoire)
-* [Les Sōkes](#sokes)
-* [Les Katas](#katas)
-* [Lexique](#lexique)
+* [Le poème du Mugai ryu](/poeme)
+* [Origine et Histoire](/origine-et-histoire)
+* [Les Sōkes](/sokes)
+* [Les Katas](/katas)
+* [Lexique](/lexique)
+* [L'attitude mental en Iaido](/mental-attitude)

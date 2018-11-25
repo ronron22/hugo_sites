@@ -5,5 +5,5 @@ draft: false
 weight: 30
 ---
  
-* [Musashi no kuni MugaiKai - 江戸無外会 - (le siège de Tokyo) ](#siege-de-tokyo)
-* [Compétition international - (Taikai)](#taikai)
+* [Musashi no kuni MugaiKai - 武蔵国無外会 - (le siège de Tokyo) ](/siege-de-tokyo)
+* [Compétition international - (Taikai)](/taikai)

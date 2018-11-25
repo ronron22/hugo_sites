@@ -6,8 +6,6 @@ private: true
 menuname: "Lexique"
 ---
 
-# Lexique
-
 ## Repères
 
 Seichusen
@@ -16,7 +14,7 @@ Seichusen
 
 Taisoku
 
-:   une ligne partant de l’extérieur de la hanche gauche, projetée-là vers l'avant (perpendiculaire au buste)
+:   repère : lignes partant de l’extérieur de chaque hanche et projetées vers l'avant (perpendiculaire au buste)
 
 Suigetsu
 
@@ -32,43 +30,14 @@ Metsuke
 
 ___
 
-## Gardes
-
-Seigan 
-
-:   garde moyenne, **Kissaki** au niveau des yeux
-
-Ira seigan 
-
-:   garde *semi-basse*, le sabre est parallèle au sol 
-
-Jodan
-
-:   garde haute
-
-Waki
-
-:   garde *semi-basse* où le sabre pointe vers l'arrière, parallèle au sol 
-
-Gedan
-
-:   garde basse, devant soi, Kissaki à la hauteur du genou
-
-Asso 
-
-:   garde moyenne, sur le côté, Tsuba prés du visage
-
-___
-
 ## Types de frappe
-
 Yoko ichi monji
 
-:   frappe à plat, au niveau des seins
+:   frappe horizontal (effectuée au niveau des seins dans notre école)
 
 Kiri age
 
-:   nom générique pour les frappes **Giaku** (à confirmer)
+:   nom générique pour les frappes **Gyaku** (à confirmer)
 
 Tsuki
 
@@ -78,22 +47,44 @@ Mako
 
 :   frappe vertical (de haut en bas)
 
-Kesa Giri
+Kesa giri
 
 :   frappes de biais de haut en bas, elles entrent à la jonction cou/épaule et ressortent au dessus du bassin <u>et pas au niveau du bassin</u>
 
-Gyaku kesa Giri
+Gyaku kesa giri
 
 :   frappes de biais de bas en haut, elles entrent au dessus du bassin  <u>et pas au niveau du bassin</u>  et ressortent à la jonction cou/épaule
 
-Kata soe giri
+Katate soe giri
 
 :   coupe d'une main, la main gauche ne venant saisir la Tuska qu'à la fin
+___
+
+## Gardes
+
+Jodan
+
+:   garde haute (au dessus de la tête)
+
+Asso
+
+:   garde haute (tsuba prêt de la bouche)
+
+Seigan
+
+:   garde moyenne, la lame pointant vers la gorge de l'ennemi, *kashira* à au moins deux poings du ventre
+
+Ira seigan
+
+:   garde moyenne, sabre parrallèle au sol, *kashira* à un poing du ventre
+
+Gedan
+
+:   garde basse, la lame est inclinée, la pointe devant la jambe droite, la *tsuka* bien décalée sur la gauche et le kissaki à hauteur de genou (à peu près)
 
 ___
 
 ## Actions
-
 Saya biki
 
 :   envoi du fourreau d'un geste vif vers l'arrière

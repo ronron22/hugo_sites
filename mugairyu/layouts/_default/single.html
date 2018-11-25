@@ -1,1 +1,40 @@
-{{ .Content }}
+{{ partial "header.html" . }}
+
+    <!-- Wrapper -->
+      <div id="wrapper">
+
+            <nav>
+              <ul>
+              <!--  {{ range .Data.Pages.ByWeight }} 
+                    {{ if not .Params.private }}
+                  <li>{{ if isset .Params "link" }}<a href="{{ index .Params "link" }}"{{else}}<a href="#{{ .File.TranslationBaseName }}"{{end}}>{{ if .GetParam "menuname" }}{{ .GetParam "menuname" }}{{ else }}{{ .Title }}{{ end }}</a></li>
+                {{ end }}
+								{{ end }} -->
+              </ul>
+            </nav>
+          </header>
+
+        <!-- Main -->
+          <div id="main">
+<article id="{{ .File.TranslationBaseName }}">
+  <h1>{{ .Title }}</h1>
+
+	<ul><a href="../">Retour vers l'accueil</a></ul>
+  {{ .Content }}
+</article>
+            <!--{{ range .Data.Pages }}
+                    {{ if not .Params.private }}
+              {{ .Render "onepagestyle" }}
+            {{ end }}
+						{{ end }}-->
+          </div>
+
+        <!-- Multilanguage -->
+          <div id="languages">
+            {{ if .IsTranslated }}
+              {{ range $i, $e := .Translations }}
+                {{ if $i }}, {{ end }}<a href="{{ .Permalink }}">{{ $e.Language.LanguageName }}</a>
+              {{ end}}
+            {{ end }}
+          </div>
+{{ partial "footer.html" . }}

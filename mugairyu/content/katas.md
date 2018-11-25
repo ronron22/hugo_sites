@@ -5,9 +5,7 @@ draft: false
 private: true
 ---
 
-# Les Katas
-
-## 座技 Zagi (katas à genous)
+### 座技 Zagi (katas à genous)
 | 五用 GOYÔ    | 五箇 GOKA              |
 | ------------ | ---------------------- |
 |1. 真 : Shin  |1. 水月 : Suigetsu      |
@@ -18,7 +16,7 @@ private: true
 
 ___
 
-## 立ち技 Tachiwaza (katas debouts) 
+### 立ち技 Tachiwaza (katas debouts) 
 
 |五応 GOÔ                |走り懸り HASHIRIGAKARI    |
 |------------------------|--------------------------|
@@ -30,7 +28,7 @@ ___
 
 ___
 
-## 剣術 Kenjutsu
+### 剣術 KENJUTSU 
 |居合いの形 IAI NO KATA |脇差の形 WAKIZASHI NO KATA |
 |-----------------------|---------------------------|
 |1. 北斗 : Hokuto       |1. 切り留 : Kiridome       |

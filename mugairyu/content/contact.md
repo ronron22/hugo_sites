@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contactez-nous"
 weight: 60
 draft: false
 tags: [ "contact", "facebook", "message", "email", "mail" ]
@@ -7,8 +7,6 @@ keywords: [  "contact", "facebook", "message", "email", "mail" ]
 categories:
   - "contact"
 ---
-
-# Contactez-nous
 
 ![Umegawa in Sagami province](/images/Umegawa_in_Sagami_province-mini.jpg)
 
@@ -24,13 +22,13 @@ categories:
 	</div>
 	<ul class="actions">
 		<li><input type="submit" value="Envoyer" class="special" /></li>
-		<li><input type="reset" value="Reset" /></li>
+		<li><input type="reset" value="Réinitialiser" /></li>
 	</ul>
 	<input type="hidden" name="_next" value="?sent#formspree" />
 	<input type="hidden" name="_subject" value="Subject for your mail like new message" />
 	<input type="text" name="_gotcha" style="display:none" />
 </form>
-<span id="contactformsent">Thank you for your message</span>
+<span id="contactformsent">Merci pour votre message</span>
 
 <script>
 $(document).ready(function($) { 
@@ -45,6 +43,3 @@ $(document).ready(function($) {
 });
 </script>
 
-___
-
-{{< socialLinks >}}
